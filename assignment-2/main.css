@@ -1,0 +1,17 @@
+.body {
+  height: 100%;
+}
+
+.box {
+  margin: 20px 15px 10px 5px;
+  padding: 5px 10px 15px 20px;
+  background-color: green;
+  border: 5px black solid;
+  height: 300px;
+  width: 40%;
+  display: inline-block;
+}
+
+.box:last-of-type:hover {
+  border: 10px white dotted;
+}
