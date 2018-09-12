@@ -40,7 +40,6 @@ main {
   padding: 8px;
   color: white;
   background: #ff5454;
-  z-index: 2;
 }
 
 .package__subtitle {
